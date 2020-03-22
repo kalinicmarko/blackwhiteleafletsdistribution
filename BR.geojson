@@ -13,8 +13,8 @@
 "description": "BR8 7 postcode sector<br>Details (http://www.doogal.co.uk/UKPostcodes.php?Search=BR8 7)",
 "houses": 6611,
 "price-solus": 85,
-"price-shared1": "50",
-"price-shared2": "45"
+"price-shared1": 50,
+"price-shared2": 45
 },
 "geometry": {
 "type": "Polygon",
