@@ -21,9 +21,9 @@
         "drawOrder": "null",
         "icon": "null",
         "houses": 4790,
-        "price-solus": 85,
-        "price-shared1": 50,
-        "price-shared2": 45
+        "price-solus": 95,
+        "price-shared1": 55,
+        "price-shared2": 50
       },
       "geometry": {
         "type": "MultiPolygon",
